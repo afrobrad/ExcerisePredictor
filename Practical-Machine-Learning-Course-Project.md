@@ -137,4 +137,5 @@ The Confusion Matrix for Random Forest with 5 Fold Cv:
 
 A Random Forest model with 5 fold CV was trained to predict the assess
 the correctness of the weight lifting exercises with 0.9937128 accuracy.
-This model will be used to evaluate the Test/Evaluation data set.
+This model will be used to evaluate the 20 case Test/Evaluation data
+set.
