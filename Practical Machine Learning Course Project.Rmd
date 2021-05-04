@@ -2,7 +2,7 @@
 title: "Exercise effectiveness Prediction"
 author: "Brad Martin"
 date: "5/3/2021"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
