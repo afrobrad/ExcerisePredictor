@@ -229,7 +229,6 @@ cm1$table
 
 ```
 
-
 ```{r echo=FALSE}
 #stop parallel processing
 stopCluster(cluster)

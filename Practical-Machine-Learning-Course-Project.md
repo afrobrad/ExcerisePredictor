@@ -123,7 +123,7 @@ Table 1. Model Results
 | Random Forest - 10 Fold Cross Vaidation         |        1.0000000 |    0.9933730 |      451.20 |
 | Random Forest - 15 Fold Cross Vaidation         |        1.0000000 |    0.9933730 |      681.16 |
 
-The confusion matrix for Random Forest with 5 Fold Cv:
+The Confusion Matrix for Random Forest with 5 Fold Cv:
 
     ##           Reference
     ## Prediction    A    B    C    D    E
